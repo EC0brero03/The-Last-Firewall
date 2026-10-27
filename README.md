@@ -9,7 +9,7 @@ This project aims to make cybersecurity education engaging, accessible, and memo
 ## Learning Objectives
 This game is designed to help players identify phishing emails, malicious links, and social engineering attempts through interactive gameplay
 
-## Screenshots
+# Screenshots
 ![Main Menu](screenshots/1.png)
 ![Sample](screenshots/2.png)
 ![Sample](screenshots/3.png)
