@@ -11,3 +11,9 @@ This game is designed to help players identify phishing emails, malicious links,
 
 ## Screenshots
 ![Main Menu](screenshots/1.png)
+![Sample](screenshots/2.png)
+![Sample](screenshots/3.png)
+![Mini Game](screenshots/4.png)
+![Mini Game](screenshots/5.png)
+![Mini Game](screenshots/6.png)
+![Mini Game](screenshots/7.png)
