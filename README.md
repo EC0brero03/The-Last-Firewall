@@ -13,7 +13,14 @@ This game is designed to help players identify phishing emails, malicious links,
 ![Main Menu](screenshots/1.png)
 ![Sample](screenshots/2.png)
 ![Sample](screenshots/3.png)
+
+# Mini Games
+
+## Turn-Based
 ![Mini Game](screenshots/4.png)
+## True or False
 ![Mini Game](screenshots/5.png)
+## Spot the Difference
 ![Mini Game](screenshots/6.png)
+## Terminal Simulation
 ![Mini Game](screenshots/7.png)
